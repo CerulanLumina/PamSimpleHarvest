@@ -1,0 +1,17 @@
+[
+{
+  "modid": "pamsimpleharvest",
+  "name": "PamSimpleHarvest",
+  "description": "Provides automatic integration between TehNut's SimpleHarvest and Pam's Harvestcraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CerulanLumina"],
+  "credits": "Pam's HarvestCraft and SimpleHarvest, for being open-source. Thank you.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["harvest", "harvestcraft"],
+  "requiredMods": ["harvest", "harvestcraft"]
+}
+]

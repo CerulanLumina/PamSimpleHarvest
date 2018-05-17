@@ -8,7 +8,7 @@
   "url": "",
   "updateUrl": "",
   "authorList": ["CerulanLumina"],
-  "credits": "Pam's HarvestCraft and SimpleHarvest, for being open-source. Thank you.",
+  "credits": "Pam's HarvestCraft and SimpleHarvest, for being open-source. Thank you. Some code used from TehNut's SimpleHarvest, MIT License",
   "logoFile": "",
   "screenshots": [],
   "dependencies": ["harvest", "harvestcraft"],
